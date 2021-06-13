@@ -4,6 +4,7 @@ import com.sun.tools.javap.TypeAnnotationWriter;
 
 import javax.persistence.*;
 
+@Entity
 public class Notes {
 
     @Id
