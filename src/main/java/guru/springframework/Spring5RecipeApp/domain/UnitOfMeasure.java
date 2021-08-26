@@ -3,7 +3,7 @@ package guru.springframework.Spring5RecipeApp.domain;
 import javax.persistence.*;
 
 @Entity
-public class unitOfMeasure {
+public class UnitOfMeasure {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
